@@ -1,10 +1,8 @@
-Django Project Template
+{{ project_name }}
 =======================
 
-Master branch has standard Django 1.4 project template, extracted from https://github.com/django/django
+Project structure generated using django-project-template
 
-Usage
------
 ```bash
-django-admin.py startproject --template=https://github.com/pedroburon/django-project-template/archive/master.zip projectname
+django-admin.py startproject --template=https://github.com/pedroburon/django-project-template/archive/master.zip {{ project_name }}
 ```
