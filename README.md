@@ -1,6 +1,16 @@
 {{ project_name }}
 =======================
 
+Run server
+----------
+```bash
+foreman start
+```
+Local environment variables at `.env`
+
+
+-------------
+
 Project structure generated using django-project-template heroku flavour
 
 ```bash
